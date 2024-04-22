@@ -19,7 +19,6 @@ set /p wordlist="Password List: "
 call :mistake %wordlist%
 
 set /p out="Output File Name: "
-set /p threads="Number of Threads (Default 1-5): "
 
 rem set a counter for attempt count
 set /a count=1
