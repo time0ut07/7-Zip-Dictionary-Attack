@@ -4,7 +4,8 @@ rem remove the extra text in the command prompt to make it look cleaner
 rem color 8 = grey
 color 8
 
-title Zip Password Cracker
+title Zip Password Cracker - time0ut
+echo Zip Password Cracker - time0ut
 echo Make sure all files are in the your current directory
 echo Make sure 7z is installed
 
