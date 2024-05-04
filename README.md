@@ -1,5 +1,5 @@
 # 7-Zip-Dictionary-Attack
-
+zzzz
 
 Coded in batch (DOS/Windows shell script executed by the DOS/Windows command interpreter), this script will brute force password protected 7-zip files automatically.
 
